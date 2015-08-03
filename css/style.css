@@ -1,0 +1,119 @@
+
+#photoDeleteBtn, #PHOTO_IMG img:hover{cursor:pointer;}
+       		input[type="file"] 
+       				{
+       					width:120;
+	       				height:1200;
+	       				
+       				}
+       		
+       		#TBL_CONTENTS tbody tr:hover{ 	
+       					cursor:pointer;
+       					background-color: #f2dede;
+       				}
+	       	#upload
+	       			{	width:120px;	       				
+	       				height: 120px;
+					    line-height: 0;
+					    font-size: 0px;
+					    position: absolute;
+					    top:0px;
+					    opacity: 0;
+					    filter: alpha(opacity = 0);
+					    -ms-filter: "alpha(opacity=0)";
+					    cursor:pointer;
+					    margin: 0;
+					    padding:0;
+				    }
+		.input_red{border-color: red;}
+		body 	{	margin: 0px; }
+		h4		{	display: inline;}
+		#head 	{	background-color: #0099FF;
+				 	padding: 10px;
+				}
+		#imgedit, #imgpaid{
+					cursor:pointer;
+				}
+		#show_cmt a img{margin-left: 30px; width:30px; height: 30px;}
+		#show_cmt img{width:60px; height:60px; margin:0 5px 3px 0;}
+		#profilepic img:hover{cursor: hand;}
+		#sbcontent p
+				{
+					width: 1000px; 
+					margin-left: 20px;
+					word-wrap: break-word;
+				}
+		#show_cmt p
+				{
+					width: 700px; 
+					margin-left: 20px;
+					word-wrap: break-word;
+				}	
+				
+		#left_layout 
+				{
+					width: 305px;
+					height: 900px;
+					float: left;
+					margin: 0 auto;
+					overflow: auto;
+					border-right: 1px solid;
+					border-bottom: 1px solid;
+				}
+		
+		#left_layout a 
+				{
+					
+					overflow: auto;
+					text-decoration: none;
+				}
+		.blind	{	display:none;}
+	
+		.pagination li span, .pagination li a
+				{border:0; padding: 0; margin-left: 5px;}
+		#listitem{width:300px; }
+		#listitem a{overflow:hiddent}
+		
+		#right_layout 
+				{
+					overflow: hidden;
+					padding:0 0 30px 20px;
+					height:100% auto; 
+					
+				}
+			td 	{
+					border-bottom: 1px solid;
+					border-top: 1px solid;
+					padding: 0 20px;
+				}
+		#SUBTITLE_NAME:hover
+				{
+					cursor: hand;
+				}
+		 
+		.item{
+			width : 300px;
+			padding-right: 10px;
+		}
+		
+		.item a:hover{background-color: #BCCDCD;}
+		.item img:hover{cursor: hand;}
+		.item a{
+			
+			display: inline-block;
+			width : 250px;
+			border:0;
+		}
+		.item img{
+			float: right;
+			margin-top: 10px;
+		}		
+		#profilepic img{
+			margin-top: -37px;
+			width: 40px; height: 40px; 
+		}
+		.primary{
+			color: #fff;
+			background-color: #337ab7;
+			border: #2e6da4;
+		}
